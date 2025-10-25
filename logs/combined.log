@@ -1,0 +1,480 @@
+{"level":"info","message":"Primary 14596 is running","timestamp":"2025-10-20T04:32:27.644Z"}
+{"level":"info","message":"Worker 14228 connected to MongoDB","timestamp":"2025-10-20T04:32:33.024Z"}
+{"level":"info","message":"Worker 14228 running on port 5000","timestamp":"2025-10-20T04:32:33.050Z"}
+{"level":"info","message":"Worker 3356 connected to MongoDB","timestamp":"2025-10-20T04:32:33.047Z"}
+{"level":"info","message":"Worker 3356 running on port 5000","timestamp":"2025-10-20T04:32:33.081Z"}
+{"level":"info","message":"Worker 4416 connected to MongoDB","timestamp":"2025-10-20T04:32:33.083Z"}
+{"level":"info","message":"Worker 8112 connected to MongoDB","timestamp":"2025-10-20T04:32:33.104Z"}
+{"level":"info","message":"Worker 4416 running on port 5000","timestamp":"2025-10-20T04:32:33.129Z"}
+{"level":"info","message":"Worker 8112 running on port 5000","timestamp":"2025-10-20T04:32:33.138Z"}
+{"level":"warn","message":"Worker 4416 died with code: 1, signal: null","timestamp":"2025-10-20T04:33:21.337Z"}
+{"level":"info","message":"Primary 18264 is running","timestamp":"2025-10-20T04:33:24.253Z"}
+{"level":"info","message":"Worker 11384 connected to MongoDB","timestamp":"2025-10-20T04:33:29.127Z"}
+{"level":"info","message":"Worker 4444 connected to MongoDB","timestamp":"2025-10-20T04:33:29.126Z"}
+{"level":"info","message":"Worker 4444 running on port 5000","timestamp":"2025-10-20T04:33:29.145Z"}
+{"level":"info","message":"Worker 11384 running on port 5000","timestamp":"2025-10-20T04:33:29.147Z"}
+{"level":"info","message":"Worker 3624 connected to MongoDB","timestamp":"2025-10-20T04:33:29.203Z"}
+{"level":"info","message":"Worker 16528 connected to MongoDB","timestamp":"2025-10-20T04:33:29.207Z"}
+{"level":"info","message":"Worker 3624 running on port 5000","timestamp":"2025-10-20T04:33:29.236Z"}
+{"level":"info","message":"Worker 16528 running on port 5000","timestamp":"2025-10-20T04:33:29.237Z"}
+{"level":"info","message":"Primary 10500 is running","timestamp":"2025-10-20T04:34:04.477Z"}
+{"level":"info","message":"Worker 15068 connected to MongoDB","timestamp":"2025-10-20T04:34:09.132Z"}
+{"level":"info","message":"Worker 11504 connected to MongoDB","timestamp":"2025-10-20T04:34:09.133Z"}
+{"level":"info","message":"Worker 7004 connected to MongoDB","timestamp":"2025-10-20T04:34:09.133Z"}
+{"level":"info","message":"Worker 10780 connected to MongoDB","timestamp":"2025-10-20T04:34:09.135Z"}
+{"level":"info","message":"Worker 11504 running on port 5000","timestamp":"2025-10-20T04:34:09.153Z"}
+{"level":"info","message":"Worker 15068 running on port 5000","timestamp":"2025-10-20T04:34:09.154Z"}
+{"level":"info","message":"Worker 7004 running on port 5000","timestamp":"2025-10-20T04:34:09.159Z"}
+{"level":"info","message":"Worker 10780 running on port 5000","timestamp":"2025-10-20T04:34:09.164Z"}
+{"level":"warn","message":"Worker 11504 died with code: 1, signal: null","timestamp":"2025-10-20T04:34:33.421Z"}
+{"level":"info","message":"Primary 10732 is running","timestamp":"2025-10-20T04:34:36.789Z"}
+{"level":"warn","message":"Worker 10612 died with code: 1, signal: null","timestamp":"2025-10-20T04:34:40.680Z"}
+{"level":"warn","message":"Worker 5868 died with code: 1, signal: null","timestamp":"2025-10-20T04:34:40.739Z"}
+{"level":"warn","message":"Worker 11696 died with code: 1, signal: null","timestamp":"2025-10-20T04:34:40.773Z"}
+{"level":"info","message":"Primary 4340 is running","timestamp":"2025-10-20T04:34:43.116Z"}
+{"level":"info","message":"Worker 10672 connected to MongoDB","timestamp":"2025-10-20T04:34:47.621Z"}
+{"level":"info","message":"Worker 10672 running on port 5000","timestamp":"2025-10-20T04:34:47.639Z"}
+{"level":"info","message":"Worker 2896 connected to MongoDB","timestamp":"2025-10-20T04:34:47.646Z"}
+{"level":"info","message":"Worker 2896 running on port 5000","timestamp":"2025-10-20T04:34:47.668Z"}
+{"level":"info","message":"Worker 17940 connected to MongoDB","timestamp":"2025-10-20T04:34:47.688Z"}
+{"level":"info","message":"Worker 13124 connected to MongoDB","timestamp":"2025-10-20T04:34:47.693Z"}
+{"level":"info","message":"Worker 17940 running on port 5000","timestamp":"2025-10-20T04:34:47.719Z"}
+{"level":"info","message":"Worker 13124 running on port 5000","timestamp":"2025-10-20T04:34:47.726Z"}
+{"level":"info","message":"Primary 6888 is running","timestamp":"2025-10-20T06:52:35.078Z"}
+{"level":"info","message":"Worker 11552 connected to MongoDB","timestamp":"2025-10-20T06:52:42.878Z"}
+{"level":"info","message":"Worker 11552 running on port 5000","timestamp":"2025-10-20T06:52:42.921Z"}
+{"level":"info","message":"Worker 18852 connected to MongoDB","timestamp":"2025-10-20T06:52:42.942Z"}
+{"level":"info","message":"Worker 10352 connected to MongoDB","timestamp":"2025-10-20T06:52:42.942Z"}
+{"level":"info","message":"Worker 13768 connected to MongoDB","timestamp":"2025-10-20T06:52:42.957Z"}
+{"level":"info","message":"Worker 18852 running on port 5000","timestamp":"2025-10-20T06:52:42.995Z"}
+{"level":"info","message":"Worker 10352 running on port 5000","timestamp":"2025-10-20T06:52:42.998Z"}
+{"level":"info","message":"Worker 13768 running on port 5000","timestamp":"2025-10-20T06:52:43.026Z"}
+{"level":"info","message":"User registered: numanlajilani001@gmail.com","timestamp":"2025-10-20T07:03:02.199Z"}
+{"level":"info","message":"Primary 10588 is running","timestamp":"2025-10-20T07:09:01.380Z"}
+{"level":"warn","message":"Worker 18400 died with code: 1, signal: null","timestamp":"2025-10-20T07:09:04.905Z"}
+{"level":"warn","message":"Worker 19280 died with code: 1, signal: null","timestamp":"2025-10-20T07:09:05.115Z"}
+{"level":"warn","message":"Worker 8440 died with code: 1, signal: null","timestamp":"2025-10-20T07:09:05.181Z"}
+{"level":"info","message":"Primary 8872 is running","timestamp":"2025-10-20T07:09:11.365Z"}
+{"level":"info","message":"Worker 5292 connected to MongoDB","timestamp":"2025-10-20T07:09:19.545Z"}
+{"level":"info","message":"Worker 5292 running on port 5000","timestamp":"2025-10-20T07:09:19.571Z"}
+{"level":"info","message":"Worker 19052 connected to MongoDB","timestamp":"2025-10-20T07:09:19.757Z"}
+{"level":"info","message":"Worker 19052 running on port 5000","timestamp":"2025-10-20T07:09:19.837Z"}
+{"level":"info","message":"Worker 15956 connected to MongoDB","timestamp":"2025-10-20T07:09:20.012Z"}
+{"level":"info","message":"Worker 15956 running on port 5000","timestamp":"2025-10-20T07:09:20.043Z"}
+{"level":"info","message":"Worker 15316 connected to MongoDB","timestamp":"2025-10-20T07:09:21.819Z"}
+{"level":"info","message":"Worker 15316 running on port 5000","timestamp":"2025-10-20T07:09:21.886Z"}
+{"level":"info","message":"Primary 19004 is running","timestamp":"2025-10-20T07:10:02.452Z"}
+{"level":"info","message":"Worker 10464 connected to MongoDB","timestamp":"2025-10-20T07:10:12.696Z"}
+{"level":"info","message":"Worker 10464 running on port 5000","timestamp":"2025-10-20T07:10:12.826Z"}
+{"level":"info","message":"Worker 15068 connected to MongoDB","timestamp":"2025-10-20T07:10:13.339Z"}
+{"level":"info","message":"Worker 15068 running on port 5000","timestamp":"2025-10-20T07:10:13.386Z"}
+{"level":"info","message":"Worker 7428 connected to MongoDB","timestamp":"2025-10-20T07:10:13.500Z"}
+{"level":"info","message":"Worker 13964 connected to MongoDB","timestamp":"2025-10-20T07:10:13.504Z"}
+{"level":"info","message":"Worker 7428 running on port 5000","timestamp":"2025-10-20T07:10:13.559Z"}
+{"level":"info","message":"Worker 13964 running on port 5000","timestamp":"2025-10-20T07:10:13.564Z"}
+{"level":"warn","message":"Worker 15068 died with code: 1, signal: null","timestamp":"2025-10-20T07:10:32.887Z"}
+{"level":"info","message":"Primary 3308 is running","timestamp":"2025-10-20T07:10:36.341Z"}
+{"level":"info","message":"Worker 13980 connected to MongoDB","timestamp":"2025-10-20T07:10:42.060Z"}
+{"level":"info","message":"Worker 13980 running on port 5000","timestamp":"2025-10-20T07:10:42.083Z"}
+{"level":"info","message":"Worker 3312 connected to MongoDB","timestamp":"2025-10-20T07:10:42.104Z"}
+{"level":"info","message":"Worker 16692 connected to MongoDB","timestamp":"2025-10-20T07:10:42.104Z"}
+{"level":"info","message":"Worker 16692 running on port 5000","timestamp":"2025-10-20T07:10:42.143Z"}
+{"level":"info","message":"Worker 3312 running on port 5000","timestamp":"2025-10-20T07:10:42.146Z"}
+{"level":"info","message":"Worker 19204 connected to MongoDB","timestamp":"2025-10-20T07:10:42.219Z"}
+{"level":"info","message":"Worker 19204 running on port 5000","timestamp":"2025-10-20T07:10:42.240Z"}
+{"level":"info","message":"User logged in: numanlajilani001@gmail.com","timestamp":"2025-10-20T07:39:46.507Z"}
+{"level":"info","message":"Primary 11760 is running","timestamp":"2025-10-20T13:37:34.858Z"}
+{"level":"info","message":"Worker 5244 connected to MongoDB","timestamp":"2025-10-20T13:37:39.639Z"}
+{"level":"info","message":"Worker 5244 running on port 5000","timestamp":"2025-10-20T13:37:39.655Z"}
+{"level":"info","message":"Worker 18924 connected to MongoDB","timestamp":"2025-10-20T13:37:39.667Z"}
+{"level":"info","message":"Worker 18924 running on port 5000","timestamp":"2025-10-20T13:37:39.706Z"}
+{"level":"info","message":"Worker 5016 connected to MongoDB","timestamp":"2025-10-20T13:37:39.726Z"}
+{"level":"info","message":"Worker 5016 running on port 5000","timestamp":"2025-10-20T13:37:39.758Z"}
+{"level":"info","message":"Worker 8448 connected to MongoDB","timestamp":"2025-10-20T13:37:39.794Z"}
+{"level":"info","message":"Worker 8448 running on port 5000","timestamp":"2025-10-20T13:37:39.812Z"}
+{"level":"error","message":"Cloudinary upload error: Resource not found - https://res.cloudinary.com/dtbzfvylg/image/upload/v1760968970/profiles/weeknpthd3kjfmmlmen8.jpg","timestamp":"2025-10-20T14:03:03.070Z"}
+{"level":"info","message":"User logged in: numanlajilani001@gmail.com","timestamp":"2025-10-20T14:09:36.489Z"}
+{"level":"info","message":"Token verified for user ID: 68f5dea6b7afba607f781ec9","timestamp":"2025-10-20T14:24:33.077Z"}
+{"level":"info","message":"Token blacklisted for user ID: 68f5dea6b7afba607f781ec9","timestamp":"2025-10-20T14:24:33.083Z"}
+{"level":"info","message":"User logged in: numanlajilani001@gmail.com","timestamp":"2025-10-20T14:25:15.676Z"}
+{"level":"info","message":"Primary 15376 is running","timestamp":"2025-10-21T03:18:32.192Z"}
+{"level":"info","message":"Worker 14788 connected to MongoDB","timestamp":"2025-10-21T03:18:41.575Z"}
+{"level":"info","message":"Worker 12700 connected to MongoDB","timestamp":"2025-10-21T03:18:41.606Z"}
+{"level":"info","message":"Worker 14788 running on port 5000","timestamp":"2025-10-21T03:18:41.637Z"}
+{"level":"info","message":"Worker 8420 connected to MongoDB","timestamp":"2025-10-21T03:18:41.626Z"}
+{"level":"info","message":"Worker 20304 connected to MongoDB","timestamp":"2025-10-21T03:18:41.644Z"}
+{"level":"info","message":"Worker 12700 running on port 5000","timestamp":"2025-10-21T03:18:41.677Z"}
+{"level":"info","message":"Worker 20304 running on port 5000","timestamp":"2025-10-21T03:18:41.709Z"}
+{"level":"info","message":"Worker 8420 running on port 5000","timestamp":"2025-10-21T03:18:41.716Z"}
+{"level":"info","message":"Primary 17160 is running","timestamp":"2025-10-21T03:42:40.788Z"}
+{"level":"info","message":"Worker 18028 connected to MongoDB","timestamp":"2025-10-21T03:42:49.639Z"}
+{"level":"info","message":"Worker 7940 connected to MongoDB","timestamp":"2025-10-21T03:42:49.678Z"}
+{"level":"info","message":"Worker 18028 running on port 5000","timestamp":"2025-10-21T03:42:49.739Z"}
+{"level":"info","message":"Worker 7940 running on port 5000","timestamp":"2025-10-21T03:42:49.742Z"}
+{"level":"info","message":"Worker 18692 connected to MongoDB","timestamp":"2025-10-21T03:42:49.741Z"}
+{"level":"info","message":"Worker 18692 running on port 5000","timestamp":"2025-10-21T03:42:49.834Z"}
+{"level":"info","message":"Worker 1800 connected to MongoDB","timestamp":"2025-10-21T03:42:50.578Z"}
+{"level":"info","message":"Worker 1800 running on port 5000","timestamp":"2025-10-21T03:42:50.702Z"}
+{"level":"info","message":"Primary 7716 is running","timestamp":"2025-10-21T03:45:43.685Z"}
+{"level":"info","message":"Worker 19476 connected to MongoDB","timestamp":"2025-10-21T03:45:51.922Z"}
+{"level":"info","message":"Worker 17240 connected to MongoDB","timestamp":"2025-10-21T03:45:51.923Z"}
+{"level":"info","message":"Worker 19476 running on port 5000","timestamp":"2025-10-21T03:45:51.972Z"}
+{"level":"info","message":"Worker 17240 running on port 5000","timestamp":"2025-10-21T03:45:51.976Z"}
+{"level":"info","message":"Worker 5096 connected to MongoDB","timestamp":"2025-10-21T03:45:52.013Z"}
+{"level":"info","message":"Worker 10592 connected to MongoDB","timestamp":"2025-10-21T03:45:52.013Z"}
+{"level":"info","message":"Worker 10592 running on port 5000","timestamp":"2025-10-21T03:45:52.040Z"}
+{"level":"info","message":"Worker 5096 running on port 5000","timestamp":"2025-10-21T03:45:52.054Z"}
+{"level":"warn","message":"Worker 17240 died with code: 1, signal: null","timestamp":"2025-10-21T03:46:05.924Z"}
+{"level":"info","message":"Primary 11196 is running","timestamp":"2025-10-21T03:46:09.776Z"}
+{"level":"info","message":"Worker 16328 connected to MongoDB","timestamp":"2025-10-21T03:46:17.651Z"}
+{"level":"info","message":"Worker 16328 running on port 5000","timestamp":"2025-10-21T03:46:17.677Z"}
+{"level":"info","message":"Worker 9440 connected to MongoDB","timestamp":"2025-10-21T03:46:17.697Z"}
+{"level":"info","message":"Worker 20404 connected to MongoDB","timestamp":"2025-10-21T03:46:17.695Z"}
+{"level":"info","message":"Worker 20404 running on port 5000","timestamp":"2025-10-21T03:46:17.725Z"}
+{"level":"info","message":"Worker 9440 running on port 5000","timestamp":"2025-10-21T03:46:17.727Z"}
+{"level":"info","message":"Worker 10272 connected to MongoDB","timestamp":"2025-10-21T03:46:17.984Z"}
+{"level":"info","message":"Worker 10272 running on port 5000","timestamp":"2025-10-21T03:46:18.015Z"}
+{"level":"warn","message":"Worker 20404 died with code: 1, signal: null","timestamp":"2025-10-21T03:47:41.950Z"}
+{"level":"info","message":"Primary 19160 is running","timestamp":"2025-10-21T03:47:47.475Z"}
+{"level":"info","message":"Worker 17540 connected to MongoDB","timestamp":"2025-10-21T03:47:54.838Z"}
+{"level":"info","message":"Worker 11568 connected to MongoDB","timestamp":"2025-10-21T03:47:54.838Z"}
+{"level":"info","message":"Worker 18444 connected to MongoDB","timestamp":"2025-10-21T03:47:54.837Z"}
+{"level":"info","message":"Worker 18444 running on port 5000","timestamp":"2025-10-21T03:47:54.863Z"}
+{"level":"info","message":"Worker 17540 running on port 5000","timestamp":"2025-10-21T03:47:54.863Z"}
+{"level":"info","message":"Worker 11568 running on port 5000","timestamp":"2025-10-21T03:47:54.879Z"}
+{"level":"info","message":"Worker 18064 connected to MongoDB","timestamp":"2025-10-21T03:47:56.798Z"}
+{"level":"info","message":"Worker 18064 running on port 5000","timestamp":"2025-10-21T03:47:56.853Z"}
+{"level":"warn","message":"Worker 11568 died with code: 1, signal: null","timestamp":"2025-10-21T03:48:00.562Z"}
+{"level":"info","message":"Primary 15056 is running","timestamp":"2025-10-21T03:48:07.683Z"}
+{"level":"info","message":"Worker 16680 connected to MongoDB","timestamp":"2025-10-21T03:48:17.358Z"}
+{"level":"info","message":"Worker 15712 connected to MongoDB","timestamp":"2025-10-21T03:48:17.380Z"}
+{"level":"info","message":"Worker 16680 running on port 5000","timestamp":"2025-10-21T03:48:17.420Z"}
+{"level":"info","message":"Worker 15712 running on port 5000","timestamp":"2025-10-21T03:48:17.429Z"}
+{"level":"info","message":"Worker 8852 connected to MongoDB","timestamp":"2025-10-21T03:48:17.442Z"}
+{"level":"info","message":"Worker 8852 running on port 5000","timestamp":"2025-10-21T03:48:17.518Z"}
+{"level":"info","message":"Worker 13684 connected to MongoDB","timestamp":"2025-10-21T03:48:17.736Z"}
+{"level":"info","message":"Worker 13684 running on port 5000","timestamp":"2025-10-21T03:48:17.766Z"}
+{"level":"info","message":"Primary 10444 is running","timestamp":"2025-10-21T03:48:51.681Z"}
+{"level":"info","message":"Worker 2400 connected to MongoDB","timestamp":"2025-10-21T03:48:59.378Z"}
+{"level":"info","message":"Worker 4256 connected to MongoDB","timestamp":"2025-10-21T03:48:59.391Z"}
+{"level":"info","message":"Worker 19260 connected to MongoDB","timestamp":"2025-10-21T03:48:59.391Z"}
+{"level":"info","message":"Worker 16252 connected to MongoDB","timestamp":"2025-10-21T03:48:59.461Z"}
+{"level":"warn","message":"Worker 19260 died with code: 1, signal: null","timestamp":"2025-10-21T03:48:59.497Z"}
+{"level":"warn","message":"Worker 4256 died with code: 1, signal: null","timestamp":"2025-10-21T03:48:59.519Z"}
+{"level":"warn","message":"Worker 2400 died with code: 1, signal: null","timestamp":"2025-10-21T03:48:59.537Z"}
+{"level":"warn","message":"Worker 16252 died with code: 1, signal: null","timestamp":"2025-10-21T03:48:59.562Z"}
+{"level":"info","message":"Worker 3396 connected to MongoDB","timestamp":"2025-10-21T03:49:07.337Z"}
+{"level":"info","message":"Worker 12444 connected to MongoDB","timestamp":"2025-10-21T03:49:07.338Z"}
+{"level":"info","message":"Worker 16396 connected to MongoDB","timestamp":"2025-10-21T03:49:07.362Z"}
+{"level":"warn","message":"Worker 3396 died with code: 1, signal: null","timestamp":"2025-10-21T03:49:07.415Z"}
+{"level":"warn","message":"Worker 12444 died with code: 1, signal: null","timestamp":"2025-10-21T03:49:07.437Z"}
+{"level":"info","message":"Worker 12340 connected to MongoDB","timestamp":"2025-10-21T03:49:07.442Z"}
+{"level":"warn","message":"Worker 16396 died with code: 1, signal: null","timestamp":"2025-10-21T03:49:07.549Z"}
+{"level":"warn","message":"Worker 12340 died with code: 1, signal: null","timestamp":"2025-10-21T03:49:07.566Z"}
+{"level":"info","message":"Worker 11316 connected to MongoDB","timestamp":"2025-10-21T03:49:14.702Z"}
+{"level":"info","message":"Worker 18808 connected to MongoDB","timestamp":"2025-10-21T03:49:14.737Z"}
+{"level":"info","message":"Worker 16744 connected to MongoDB","timestamp":"2025-10-21T03:49:14.741Z"}
+{"level":"warn","message":"Worker 11316 died with code: 1, signal: null","timestamp":"2025-10-21T03:49:14.750Z"}
+{"level":"warn","message":"Worker 16744 died with code: 1, signal: null","timestamp":"2025-10-21T03:49:14.789Z"}
+{"level":"warn","message":"Worker 18808 died with code: 1, signal: null","timestamp":"2025-10-21T03:49:14.811Z"}
+{"level":"info","message":"Worker 8600 connected to MongoDB","timestamp":"2025-10-21T03:49:14.856Z"}
+{"level":"warn","message":"Worker 8600 died with code: 1, signal: null","timestamp":"2025-10-21T03:49:14.951Z"}
+{"level":"info","message":"Worker 7288 connected to MongoDB","timestamp":"2025-10-21T03:49:20.936Z"}
+{"level":"info","message":"Worker 6728 connected to MongoDB","timestamp":"2025-10-21T03:49:20.962Z"}
+{"level":"warn","message":"Worker 7288 died with code: 1, signal: null","timestamp":"2025-10-21T03:49:20.995Z"}
+{"level":"warn","message":"Worker 6728 died with code: 1, signal: null","timestamp":"2025-10-21T03:49:21.010Z"}
+{"level":"info","message":"Worker 6184 connected to MongoDB","timestamp":"2025-10-21T03:49:21.097Z"}
+{"level":"warn","message":"Worker 6184 died with code: 1, signal: null","timestamp":"2025-10-21T03:49:21.179Z"}
+{"level":"info","message":"Worker 2832 connected to MongoDB","timestamp":"2025-10-21T03:49:21.600Z"}
+{"level":"warn","message":"Worker 2832 died with code: 1, signal: null","timestamp":"2025-10-21T03:49:22.051Z"}
+{"level":"info","message":"Worker 19476 connected to MongoDB","timestamp":"2025-10-21T03:49:28.271Z"}
+{"level":"info","message":"Worker 18736 connected to MongoDB","timestamp":"2025-10-21T03:49:28.331Z"}
+{"level":"warn","message":"Worker 19476 died with code: 1, signal: null","timestamp":"2025-10-21T03:49:28.337Z"}
+{"level":"warn","message":"Worker 18736 died with code: 1, signal: null","timestamp":"2025-10-21T03:49:28.385Z"}
+{"level":"info","message":"Worker 16712 connected to MongoDB","timestamp":"2025-10-21T03:49:28.624Z"}
+{"level":"warn","message":"Worker 16712 died with code: 1, signal: null","timestamp":"2025-10-21T03:49:28.688Z"}
+{"level":"info","message":"Worker 18420 connected to MongoDB","timestamp":"2025-10-21T03:49:29.538Z"}
+{"level":"warn","message":"Worker 18420 died with code: 1, signal: null","timestamp":"2025-10-21T03:49:29.597Z"}
+{"level":"info","message":"Worker 17556 connected to MongoDB","timestamp":"2025-10-21T03:49:34.623Z"}
+{"level":"warn","message":"Worker 17556 died with code: 1, signal: null","timestamp":"2025-10-21T03:49:34.747Z"}
+{"level":"info","message":"Worker 13552 connected to MongoDB","timestamp":"2025-10-21T03:49:34.868Z"}
+{"level":"warn","message":"Worker 13552 died with code: 1, signal: null","timestamp":"2025-10-21T03:49:34.953Z"}
+{"level":"info","message":"Worker 8836 connected to MongoDB","timestamp":"2025-10-21T03:49:35.162Z"}
+{"level":"warn","message":"Worker 8836 died with code: 1, signal: null","timestamp":"2025-10-21T03:49:35.282Z"}
+{"level":"info","message":"Worker 19804 connected to MongoDB","timestamp":"2025-10-21T03:49:36.972Z"}
+{"level":"warn","message":"Worker 19804 died with code: 1, signal: null","timestamp":"2025-10-21T03:49:37.049Z"}
+{"level":"info","message":"Worker 2488 connected to MongoDB","timestamp":"2025-10-21T03:49:42.260Z"}
+{"level":"info","message":"Worker 12212 connected to MongoDB","timestamp":"2025-10-21T03:49:42.415Z"}
+{"level":"warn","message":"Worker 2488 died with code: 1, signal: null","timestamp":"2025-10-21T03:49:42.598Z"}
+{"level":"info","message":"Worker 17868 connected to MongoDB","timestamp":"2025-10-21T03:49:42.768Z"}
+{"level":"warn","message":"Worker 12212 died with code: 1, signal: null","timestamp":"2025-10-21T03:49:43.079Z"}
+{"level":"warn","message":"Worker 17868 died with code: 1, signal: null","timestamp":"2025-10-21T03:49:43.162Z"}
+{"level":"info","message":"Worker 6320 connected to MongoDB","timestamp":"2025-10-21T03:49:44.262Z"}
+{"level":"warn","message":"Worker 6320 died with code: 1, signal: null","timestamp":"2025-10-21T03:49:44.320Z"}
+{"level":"info","message":"Worker 16236 connected to MongoDB","timestamp":"2025-10-21T03:49:51.005Z"}
+{"level":"info","message":"Worker 15696 connected to MongoDB","timestamp":"2025-10-21T03:49:51.037Z"}
+{"level":"info","message":"Worker 14520 connected to MongoDB","timestamp":"2025-10-21T03:49:51.038Z"}
+{"level":"warn","message":"Worker 16236 died with code: 1, signal: null","timestamp":"2025-10-21T03:49:51.117Z"}
+{"level":"warn","message":"Worker 14520 died with code: 1, signal: null","timestamp":"2025-10-21T03:49:51.398Z"}
+{"level":"warn","message":"Worker 15696 died with code: 1, signal: null","timestamp":"2025-10-21T03:49:51.513Z"}
+{"level":"info","message":"Worker 18936 connected to MongoDB","timestamp":"2025-10-21T03:49:53.816Z"}
+{"level":"warn","message":"Worker 18936 died with code: 1, signal: null","timestamp":"2025-10-21T03:49:54.034Z"}
+{"level":"info","message":"Worker 16852 connected to MongoDB","timestamp":"2025-10-21T03:49:59.420Z"}
+{"level":"info","message":"Worker 19120 connected to MongoDB","timestamp":"2025-10-21T03:49:59.422Z"}
+{"level":"warn","message":"Worker 19120 died with code: 1, signal: null","timestamp":"2025-10-21T03:49:59.563Z"}
+{"level":"warn","message":"Worker 16852 died with code: 1, signal: null","timestamp":"2025-10-21T03:49:59.583Z"}
+{"level":"info","message":"Worker 19756 connected to MongoDB","timestamp":"2025-10-21T03:50:01.287Z"}
+{"level":"warn","message":"Worker 19756 died with code: 1, signal: null","timestamp":"2025-10-21T03:50:01.360Z"}
+{"level":"info","message":"Worker 18608 connected to MongoDB","timestamp":"2025-10-21T03:50:01.827Z"}
+{"level":"warn","message":"Worker 18608 died with code: 1, signal: null","timestamp":"2025-10-21T03:50:02.013Z"}
+{"level":"info","message":"Worker 18532 connected to MongoDB","timestamp":"2025-10-21T03:50:06.779Z"}
+{"level":"warn","message":"Worker 18532 died with code: 1, signal: null","timestamp":"2025-10-21T03:50:06.900Z"}
+{"level":"info","message":"Worker 14080 connected to MongoDB","timestamp":"2025-10-21T03:50:08.312Z"}
+{"level":"warn","message":"Worker 14080 died with code: 1, signal: null","timestamp":"2025-10-21T03:50:08.424Z"}
+{"level":"info","message":"Worker 19232 connected to MongoDB","timestamp":"2025-10-21T03:50:08.872Z"}
+{"level":"warn","message":"Worker 19232 died with code: 1, signal: null","timestamp":"2025-10-21T03:50:08.964Z"}
+{"level":"info","message":"Worker 5736 connected to MongoDB","timestamp":"2025-10-21T03:50:10.333Z"}
+{"level":"warn","message":"Worker 5736 died with code: 1, signal: null","timestamp":"2025-10-21T03:50:12.125Z"}
+{"level":"info","message":"Worker 12652 connected to MongoDB","timestamp":"2025-10-21T03:50:14.251Z"}
+{"level":"warn","message":"Worker 12652 died with code: 1, signal: null","timestamp":"2025-10-21T03:50:14.336Z"}
+{"level":"info","message":"Worker 10328 connected to MongoDB","timestamp":"2025-10-21T03:50:14.652Z"}
+{"level":"warn","message":"Worker 10328 died with code: 1, signal: null","timestamp":"2025-10-21T03:50:14.728Z"}
+{"level":"info","message":"Worker 12920 connected to MongoDB","timestamp":"2025-10-21T03:50:15.311Z"}
+{"level":"warn","message":"Worker 12920 died with code: 1, signal: null","timestamp":"2025-10-21T03:50:15.415Z"}
+{"level":"warn","message":"Worker 4628 died with code: 1, signal: null","timestamp":"2025-10-21T03:50:18.117Z"}
+{"level":"warn","message":"Worker 3628 died with code: 1, signal: null","timestamp":"2025-10-21T03:50:18.155Z"}
+{"level":"info","message":"Primary 13948 is running","timestamp":"2025-10-21T03:50:22.283Z"}
+{"level":"info","message":"Worker 18168 connected to MongoDB","timestamp":"2025-10-21T03:50:28.250Z"}
+{"level":"info","message":"Worker 6896 connected to MongoDB","timestamp":"2025-10-21T03:50:28.251Z"}
+{"level":"info","message":"Worker 18168 running on port 5000","timestamp":"2025-10-21T03:50:28.299Z"}
+{"level":"info","message":"Worker 6896 running on port 5000","timestamp":"2025-10-21T03:50:28.300Z"}
+{"level":"info","message":"Worker 7372 connected to MongoDB","timestamp":"2025-10-21T03:50:28.296Z"}
+{"level":"info","message":"Worker 7372 running on port 5000","timestamp":"2025-10-21T03:50:28.339Z"}
+{"level":"info","message":"Worker 9328 connected to MongoDB","timestamp":"2025-10-21T03:50:28.347Z"}
+{"level":"info","message":"Worker 9328 running on port 5000","timestamp":"2025-10-21T03:50:28.381Z"}
+{"level":"info","message":"User logged in: numanlajilani001@gmail.com","timestamp":"2025-10-21T03:53:54.313Z"}
+{"level":"info","message":"Token verified for user ID: 68f5dea6b7afba607f781ec9","timestamp":"2025-10-21T03:55:41.870Z"}
+{"level":"info","message":"User logged in: numanlajilani001@gmail.com","timestamp":"2025-10-21T03:57:02.779Z"}
+{"level":"info","message":"Token verified for user ID: 68f5dea6b7afba607f781ec9","timestamp":"2025-10-21T03:57:27.622Z"}
+{"level":"info","message":"Token verified for user ID: 68f5dea6b7afba607f781ec9","timestamp":"2025-10-21T03:57:58.219Z"}
+{"level":"error","message":"Create category error: Category validation failed: name: Name is required, slug: Slug is required","timestamp":"2025-10-21T03:57:58.306Z"}
+{"level":"warn","message":"Worker 6896 died with code: 1, signal: null","timestamp":"2025-10-21T04:01:55.179Z"}
+{"level":"info","message":"Primary 10388 is running","timestamp":"2025-10-21T04:02:01.918Z"}
+{"level":"info","message":"Worker 13432 connected to MongoDB","timestamp":"2025-10-21T04:02:09.740Z"}
+{"level":"info","message":"Worker 13432 running on port 5000","timestamp":"2025-10-21T04:02:09.783Z"}
+{"level":"info","message":"Worker 18388 connected to MongoDB","timestamp":"2025-10-21T04:02:09.823Z"}
+{"level":"info","message":"Worker 19040 connected to MongoDB","timestamp":"2025-10-21T04:02:09.827Z"}
+{"level":"info","message":"Worker 18388 running on port 5000","timestamp":"2025-10-21T04:02:09.866Z"}
+{"level":"info","message":"Worker 18692 connected to MongoDB","timestamp":"2025-10-21T04:02:09.869Z"}
+{"level":"info","message":"Worker 19040 running on port 5000","timestamp":"2025-10-21T04:02:09.881Z"}
+{"level":"info","message":"Worker 18692 running on port 5000","timestamp":"2025-10-21T04:02:09.906Z"}
+{"level":"info","message":"Token verified for user ID: 68f5dea6b7afba607f781ec9","timestamp":"2025-10-21T04:02:09.941Z"}
+{"level":"error","message":"Create category error: Category validation failed: name: Name is required, slug: Slug is required","timestamp":"2025-10-21T04:02:10.344Z"}
+{"level":"warn","message":"Worker 19040 died with code: 1, signal: null","timestamp":"2025-10-21T04:05:02.586Z"}
+{"level":"info","message":"Primary 4524 is running","timestamp":"2025-10-21T04:05:28.360Z"}
+{"level":"info","message":"Worker 18720 connected to MongoDB","timestamp":"2025-10-21T04:05:35.464Z"}
+{"level":"info","message":"Worker 16120 connected to MongoDB","timestamp":"2025-10-21T04:05:35.517Z"}
+{"level":"info","message":"Worker 18720 running on port 5000","timestamp":"2025-10-21T04:05:35.523Z"}
+{"level":"info","message":"Worker 16120 running on port 5000","timestamp":"2025-10-21T04:05:35.554Z"}
+{"level":"info","message":"Worker 17172 connected to MongoDB","timestamp":"2025-10-21T04:05:35.604Z"}
+{"level":"info","message":"Worker 17172 running on port 5000","timestamp":"2025-10-21T04:05:35.641Z"}
+{"level":"info","message":"Worker 1880 connected to MongoDB","timestamp":"2025-10-21T04:05:35.775Z"}
+{"level":"info","message":"Worker 1880 running on port 5000","timestamp":"2025-10-21T04:05:35.810Z"}
+{"level":"info","message":"Token verified for user ID: 68f5dea6b7afba607f781ec9","timestamp":"2025-10-21T04:05:44.409Z"}
+{"level":"info","message":"Token verified for user ID: 68f5dea6b7afba607f781ec9","timestamp":"2025-10-21T04:06:13.056Z"}
+{"level":"warn","message":"Worker 18720 died with code: 1, signal: null","timestamp":"2025-10-21T04:10:36.550Z"}
+{"level":"warn","message":"Worker 1880 died with code: 1, signal: null","timestamp":"2025-10-21T04:10:36.569Z"}
+{"level":"info","message":"Primary 11096 is running","timestamp":"2025-10-21T04:10:40.602Z"}
+{"level":"info","message":"Worker 4964 connected to MongoDB","timestamp":"2025-10-21T04:10:47.475Z"}
+{"level":"info","message":"Worker 4964 running on port 5000","timestamp":"2025-10-21T04:10:47.505Z"}
+{"level":"info","message":"Worker 13920 connected to MongoDB","timestamp":"2025-10-21T04:10:47.525Z"}
+{"level":"info","message":"Worker 13920 running on port 5000","timestamp":"2025-10-21T04:10:47.568Z"}
+{"level":"info","message":"Worker 18768 connected to MongoDB","timestamp":"2025-10-21T04:10:47.639Z"}
+{"level":"info","message":"Worker 6692 connected to MongoDB","timestamp":"2025-10-21T04:10:47.647Z"}
+{"level":"info","message":"Worker 18768 running on port 5000","timestamp":"2025-10-21T04:10:47.668Z"}
+{"level":"info","message":"Worker 6692 running on port 5000","timestamp":"2025-10-21T04:10:47.673Z"}
+{"level":"info","message":"Token verified for user ID: 68f5dea6b7afba607f781ec9","timestamp":"2025-10-21T04:10:51.155Z"}
+{"level":"info","message":"Created category: eggs","timestamp":"2025-10-21T04:10:51.325Z"}
+{"level":"info","message":"Token verified for user ID: 68f5dea6b7afba607f781ec9","timestamp":"2025-10-21T04:10:51.360Z"}
+{"level":"info","message":"Token verified for user ID: 68f5dea6b7afba607f781ec9","timestamp":"2025-10-21T04:11:05.260Z"}
+{"level":"info","message":"Token verified for user ID: 68f5dea6b7afba607f781ec9","timestamp":"2025-10-21T04:11:29.041Z"}
+{"level":"info","message":"Updated category: 68f707cb7c4c09ed100c0c83","timestamp":"2025-10-21T04:11:29.162Z"}
+{"level":"info","message":"Token verified for user ID: 68f5dea6b7afba607f781ec9","timestamp":"2025-10-21T04:11:29.193Z"}
+{"level":"info","message":"Token verified for user ID: 68f5dea6b7afba607f781ec9","timestamp":"2025-10-21T04:11:39.537Z"}
+{"level":"info","message":"Token verified for user ID: 68f5dea6b7afba607f781ec9","timestamp":"2025-10-21T04:11:48.253Z"}
+{"level":"info","message":"Deleted category: 68f707cb7c4c09ed100c0c83","timestamp":"2025-10-21T04:11:48.312Z"}
+{"level":"info","message":"Token verified for user ID: 68f5dea6b7afba607f781ec9","timestamp":"2025-10-21T04:11:48.350Z"}
+{"level":"info","message":"Token verified for user ID: 68f5dea6b7afba607f781ec9","timestamp":"2025-10-21T04:12:20.987Z"}
+{"level":"info","message":"Created category: eggs","timestamp":"2025-10-21T04:12:21.089Z"}
+{"level":"info","message":"Token verified for user ID: 68f5dea6b7afba607f781ec9","timestamp":"2025-10-21T04:12:21.110Z"}
+{"level":"info","message":"Token verified for user ID: 68f5dea6b7afba607f781ec9","timestamp":"2025-10-21T04:21:21.837Z"}
+{"level":"info","message":"Token verified for user ID: 68f5dea6b7afba607f781ec9","timestamp":"2025-10-21T04:21:33.425Z"}
+{"level":"info","message":"Token verified for user ID: 68f5dea6b7afba607f781ec9","timestamp":"2025-10-21T04:25:52.015Z"}
+{"level":"info","message":"Token verified for user ID: 68f5dea6b7afba607f781ec9","timestamp":"2025-10-21T04:27:01.182Z"}
+{"level":"info","message":"Token verified for user ID: 68f5dea6b7afba607f781ec9","timestamp":"2025-10-21T04:31:08.829Z"}
+{"level":"info","message":"Created category: chicken","timestamp":"2025-10-21T04:31:09.164Z"}
+{"level":"info","message":"Token verified for user ID: 68f5dea6b7afba607f781ec9","timestamp":"2025-10-21T04:31:09.232Z"}
+{"level":"info","message":"Token verified for user ID: 68f5dea6b7afba607f781ec9","timestamp":"2025-10-21T04:31:57.862Z"}
+{"level":"info","message":"Updated category: 68f708257c4c09ed100c0c8e","timestamp":"2025-10-21T04:31:58.011Z"}
+{"level":"info","message":"Token verified for user ID: 68f5dea6b7afba607f781ec9","timestamp":"2025-10-21T04:31:58.053Z"}
+{"level":"error","message":"Auth middleware error: jwt expired","timestamp":"2025-10-21T11:38:03.459Z"}
+{"level":"error","message":"Auth middleware error: jwt expired","timestamp":"2025-10-21T11:39:24.184Z"}
+{"level":"error","message":"Auth middleware error: jwt expired","timestamp":"2025-10-21T11:39:30.568Z"}
+{"level":"info","message":"User logged in: numanlajilani001@gmail.com","timestamp":"2025-10-21T11:39:42.923Z"}
+{"level":"info","message":"Token verified for user ID: 68f5dea6b7afba607f781ec9","timestamp":"2025-10-21T11:40:00.429Z"}
+{"level":"info","message":"Primary 2120 is running","timestamp":"2025-10-21T11:48:05.653Z"}
+{"level":"warn","message":"Worker 20808 died with code: 1, signal: null","timestamp":"2025-10-21T11:48:08.428Z"}
+{"level":"info","message":"Primary 1252 is running","timestamp":"2025-10-21T11:48:11.950Z"}
+{"level":"info","message":"Worker 18308 connected to MongoDB","timestamp":"2025-10-21T11:48:18.401Z"}
+{"level":"info","message":"Worker 1180 connected to MongoDB","timestamp":"2025-10-21T11:48:18.404Z"}
+{"level":"info","message":"Worker 14040 connected to MongoDB","timestamp":"2025-10-21T11:48:18.423Z"}
+{"level":"info","message":"Worker 14040 running on port 5000","timestamp":"2025-10-21T11:48:18.460Z"}
+{"level":"info","message":"Worker 5476 connected to MongoDB","timestamp":"2025-10-21T11:48:18.445Z"}
+{"level":"info","message":"Worker 1180 running on port 5000","timestamp":"2025-10-21T11:48:18.504Z"}
+{"level":"info","message":"Worker 18308 running on port 5000","timestamp":"2025-10-21T11:48:18.504Z"}
+{"level":"info","message":"Worker 5476 running on port 5000","timestamp":"2025-10-21T11:48:18.539Z"}
+{"level":"warn","message":"Worker 1180 died with code: 1, signal: null","timestamp":"2025-10-21T11:49:53.064Z"}
+{"level":"info","message":"Primary 20420 is running","timestamp":"2025-10-21T11:49:57.136Z"}
+{"level":"info","message":"Worker 21156 connected to MongoDB","timestamp":"2025-10-21T11:50:03.598Z"}
+{"level":"info","message":"Worker 21156 running on port 5000","timestamp":"2025-10-21T11:50:03.628Z"}
+{"level":"info","message":"Worker 19220 connected to MongoDB","timestamp":"2025-10-21T11:50:03.887Z"}
+{"level":"info","message":"Worker 19220 running on port 5000","timestamp":"2025-10-21T11:50:03.903Z"}
+{"level":"info","message":"Worker 10128 connected to MongoDB","timestamp":"2025-10-21T11:50:04.031Z"}
+{"level":"info","message":"Worker 10128 running on port 5000","timestamp":"2025-10-21T11:50:04.051Z"}
+{"level":"info","message":"Worker 8508 connected to MongoDB","timestamp":"2025-10-21T11:50:05.160Z"}
+{"level":"info","message":"Worker 8508 running on port 5000","timestamp":"2025-10-21T11:50:05.190Z"}
+{"level":"warn","message":"Worker 10128 died with code: 1, signal: null","timestamp":"2025-10-21T11:50:11.573Z"}
+{"level":"warn","message":"Worker 21156 died with code: 1, signal: null","timestamp":"2025-10-21T11:50:11.596Z"}
+{"level":"info","message":"Primary 6544 is running","timestamp":"2025-10-21T11:50:15.274Z"}
+{"level":"info","message":"Worker 1732 connected to MongoDB","timestamp":"2025-10-21T11:50:24.150Z"}
+{"level":"info","message":"Worker 1732 running on port 5000","timestamp":"2025-10-21T11:50:24.174Z"}
+{"level":"info","message":"Worker 19724 connected to MongoDB","timestamp":"2025-10-21T11:50:24.404Z"}
+{"level":"info","message":"Worker 19724 running on port 5000","timestamp":"2025-10-21T11:50:24.432Z"}
+{"level":"info","message":"Worker 20632 connected to MongoDB","timestamp":"2025-10-21T11:50:24.676Z"}
+{"level":"info","message":"Worker 20632 running on port 5000","timestamp":"2025-10-21T11:50:24.702Z"}
+{"level":"info","message":"Worker 20932 connected to MongoDB","timestamp":"2025-10-21T11:50:24.783Z"}
+{"level":"info","message":"Worker 20932 running on port 5000","timestamp":"2025-10-21T11:50:24.807Z"}
+{"level":"info","message":"Primary 2320 is running","timestamp":"2025-10-21T11:52:34.055Z"}
+{"level":"info","message":"Worker 18528 connected to MongoDB","timestamp":"2025-10-21T11:52:40.028Z"}
+{"level":"info","message":"Worker 18528 running on port 5000","timestamp":"2025-10-21T11:52:40.046Z"}
+{"level":"info","message":"Worker 6596 connected to MongoDB","timestamp":"2025-10-21T11:52:40.125Z"}
+{"level":"info","message":"Worker 6596 running on port 5000","timestamp":"2025-10-21T11:52:40.161Z"}
+{"level":"info","message":"Worker 16580 connected to MongoDB","timestamp":"2025-10-21T11:52:40.171Z"}
+{"level":"info","message":"Worker 16580 running on port 5000","timestamp":"2025-10-21T11:52:40.188Z"}
+{"level":"info","message":"Worker 17200 connected to MongoDB","timestamp":"2025-10-21T11:52:41.532Z"}
+{"level":"info","message":"Worker 17200 running on port 5000","timestamp":"2025-10-21T11:52:41.548Z"}
+{"level":"info","message":"Primary 21444 is running","timestamp":"2025-10-21T11:52:51.828Z"}
+{"level":"info","message":"Worker 18692 connected to MongoDB","timestamp":"2025-10-21T11:52:57.765Z"}
+{"level":"info","message":"Worker 19328 connected to MongoDB","timestamp":"2025-10-21T11:52:57.765Z"}
+{"level":"info","message":"Worker 18692 running on port 5000","timestamp":"2025-10-21T11:52:57.796Z"}
+{"level":"info","message":"Worker 19328 running on port 5000","timestamp":"2025-10-21T11:52:57.797Z"}
+{"level":"info","message":"Worker 17540 connected to MongoDB","timestamp":"2025-10-21T11:52:57.977Z"}
+{"level":"info","message":"Worker 17540 running on port 5000","timestamp":"2025-10-21T11:52:58.006Z"}
+{"level":"info","message":"Worker 16828 connected to MongoDB","timestamp":"2025-10-21T11:52:58.499Z"}
+{"level":"info","message":"Worker 16828 running on port 5000","timestamp":"2025-10-21T11:52:58.515Z"}
+{"level":"info","message":"Primary 21088 is running","timestamp":"2025-10-21T11:53:04.398Z"}
+{"level":"info","message":"Worker 10076 connected to MongoDB","timestamp":"2025-10-21T11:53:10.398Z"}
+{"level":"info","message":"Worker 10076 running on port 5000","timestamp":"2025-10-21T11:53:10.425Z"}
+{"level":"info","message":"Worker 21036 connected to MongoDB","timestamp":"2025-10-21T11:53:10.461Z"}
+{"level":"info","message":"Worker 21036 running on port 5000","timestamp":"2025-10-21T11:53:10.485Z"}
+{"level":"info","message":"Worker 276 connected to MongoDB","timestamp":"2025-10-21T11:53:10.564Z"}
+{"level":"info","message":"Worker 17496 connected to MongoDB","timestamp":"2025-10-21T11:53:10.565Z"}
+{"level":"info","message":"Worker 276 running on port 5000","timestamp":"2025-10-21T11:53:10.594Z"}
+{"level":"info","message":"Worker 17496 running on port 5000","timestamp":"2025-10-21T11:53:10.594Z"}
+{"level":"info","message":"Primary 20440 is running","timestamp":"2025-10-21T11:55:12.543Z"}
+{"level":"info","message":"Worker 7676 connected to MongoDB","timestamp":"2025-10-21T11:55:16.868Z"}
+{"level":"info","message":"Worker 7676 running on port 5000","timestamp":"2025-10-21T11:55:16.899Z"}
+{"level":"info","message":"Worker 19408 connected to MongoDB","timestamp":"2025-10-21T11:55:16.948Z"}
+{"level":"info","message":"Worker 19408 running on port 5000","timestamp":"2025-10-21T11:55:16.965Z"}
+{"level":"info","message":"Worker 21068 connected to MongoDB","timestamp":"2025-10-21T11:55:16.977Z"}
+{"level":"info","message":"Worker 21068 running on port 5000","timestamp":"2025-10-21T11:55:16.993Z"}
+{"level":"info","message":"Worker 20788 connected to MongoDB","timestamp":"2025-10-21T11:55:17.135Z"}
+{"level":"info","message":"Worker 20788 running on port 5000","timestamp":"2025-10-21T11:55:17.158Z"}
+{"level":"info","message":"Primary 15916 is running","timestamp":"2025-10-21T11:57:02.032Z"}
+{"level":"info","message":"Worker 20284 connected to MongoDB","timestamp":"2025-10-21T11:57:07.465Z"}
+{"level":"info","message":"Worker 11552 connected to MongoDB","timestamp":"2025-10-21T11:57:07.465Z"}
+{"level":"info","message":"Worker 20284 running on port 5000","timestamp":"2025-10-21T11:57:07.487Z"}
+{"level":"info","message":"Worker 11552 running on port 5000","timestamp":"2025-10-21T11:57:07.491Z"}
+{"level":"info","message":"Worker 8900 connected to MongoDB","timestamp":"2025-10-21T11:57:07.511Z"}
+{"level":"info","message":"Worker 7268 connected to MongoDB","timestamp":"2025-10-21T11:57:07.511Z"}
+{"level":"info","message":"Worker 8900 running on port 5000","timestamp":"2025-10-21T11:57:07.539Z"}
+{"level":"info","message":"Worker 7268 running on port 5000","timestamp":"2025-10-21T11:57:07.540Z"}
+{"level":"info","message":"User logged in: numanlajilani001@gmail.com","timestamp":"2025-10-21T11:59:56.133Z"}
+{"level":"info","message":"Token verified for user ID: 68f5dea6b7afba607f781ec9","timestamp":"2025-10-21T12:00:11.954Z"}
+{"level":"info","message":"Token verified for user ID: 68f5dea6b7afba607f781ec9","timestamp":"2025-10-21T12:01:38.407Z"}
+{"level":"error","message":"Error: Cannot destructure property 'title' of 'req.body' as it is undefined., Stack: TypeError: Cannot destructure property 'title' of 'req.body' as it is undefined.\n    at createListing (file:///C:/Users/numan/Desktop/projects/farmsconnect.in/server/controllers/listingController.js:22:11)\n    at Layer.handleRequest (C:\\Users\\numan\\Desktop\\projects\\farmsconnect.in\\server\\node_modules\\router\\lib\\layer.js:152:17)\n    at next (C:\\Users\\numan\\Desktop\\projects\\farmsconnect.in\\server\\node_modules\\router\\lib\\route.js:157:13)\n    at Route.dispatch (C:\\Users\\numan\\Desktop\\projects\\farmsconnect.in\\server\\node_modules\\router\\lib\\route.js:117:3)\n    at handle (C:\\Users\\numan\\Desktop\\projects\\farmsconnect.in\\server\\node_modules\\router\\index.js:435:11)\n    at Layer.handleRequest (C:\\Users\\numan\\Desktop\\projects\\farmsconnect.in\\server\\node_modules\\router\\lib\\layer.js:152:17)\n    at C:\\Users\\numan\\Desktop\\projects\\farmsconnect.in\\server\\node_modules\\router\\index.js:295:15\n    at processParams (C:\\Users\\numan\\Desktop\\projects\\farmsconnect.in\\server\\node_modules\\router\\index.js:582:12)\n    at next (C:\\Users\\numan\\Desktop\\projects\\farmsconnect.in\\server\\node_modules\\router\\index.js:291:5)\n    at authMiddleware (file:///C:/Users/numan/Desktop/projects/farmsconnect.in/server/middleware/authMiddleware.js:19:5)","timestamp":"2025-10-21T12:01:38.411Z"}
+{"level":"info","message":"Primary 8080 is running","timestamp":"2025-10-21T12:11:43.951Z"}
+{"level":"info","message":"Worker 12252 connected to MongoDB","timestamp":"2025-10-21T12:11:48.262Z"}
+{"level":"info","message":"Worker 13888 connected to MongoDB","timestamp":"2025-10-21T12:11:48.263Z"}
+{"level":"info","message":"Worker 12252 running on port 5000","timestamp":"2025-10-21T12:11:48.298Z"}
+{"level":"info","message":"Worker 13888 running on port 5000","timestamp":"2025-10-21T12:11:48.298Z"}
+{"level":"info","message":"Worker 11504 connected to MongoDB","timestamp":"2025-10-21T12:11:48.309Z"}
+{"level":"info","message":"Worker 11504 running on port 5000","timestamp":"2025-10-21T12:11:48.326Z"}
+{"level":"info","message":"Worker 12580 connected to MongoDB","timestamp":"2025-10-21T12:11:48.405Z"}
+{"level":"info","message":"Worker 12580 running on port 5000","timestamp":"2025-10-21T12:11:48.445Z"}
+{"level":"info","message":"Token verified for user ID: 68f5dea6b7afba607f781ec9","timestamp":"2025-10-21T12:11:57.039Z"}
+{"level":"error","message":"Error: File size too large. Got 19337585. Maximum is 10485760. Upgrade your plan to enjoy higher limits https://www.cloudinary.com/pricing/upgrades/file-limit, Stack: undefined","timestamp":"2025-10-21T12:12:06.163Z"}
+{"level":"info","message":"Token verified for user ID: 68f5dea6b7afba607f781ec9","timestamp":"2025-10-21T12:12:30.929Z"}
+{"level":"info","message":"Token verified for user ID: 68f5dea6b7afba607f781ec9","timestamp":"2025-10-21T12:20:42.564Z"}
+{"level":"info","message":"Token verified for user ID: 68f5dea6b7afba607f781ec9","timestamp":"2025-10-21T12:20:57.226Z"}
+{"level":"info","message":"Token verified for user ID: 68f5dea6b7afba607f781ec9","timestamp":"2025-10-21T12:21:38.148Z"}
+{"level":"info","message":"Token verified for user ID: 68f5dea6b7afba607f781ec9","timestamp":"2025-10-21T12:24:10.600Z"}
+{"level":"info","message":"Token verified for user ID: 68f5dea6b7afba607f781ec9","timestamp":"2025-10-21T12:25:25.324Z"}
+{"level":"info","message":"Token verified for user ID: 68f5dea6b7afba607f781ec9","timestamp":"2025-10-21T12:25:33.804Z"}
+{"level":"info","message":"Token verified for user ID: 68f5dea6b7afba607f781ec9","timestamp":"2025-10-21T12:25:42.448Z"}
+{"level":"info","message":"Token verified for user ID: 68f5dea6b7afba607f781ec9","timestamp":"2025-10-21T12:25:42.617Z"}
+{"level":"info","message":"Token verified for user ID: 68f5dea6b7afba607f781ec9","timestamp":"2025-10-21T12:35:22.905Z"}
+{"level":"error","message":"Auth middleware error: jwt expired","timestamp":"2025-10-21T13:23:45.992Z"}
+{"level":"error","message":"Auth middleware error: jwt expired","timestamp":"2025-10-21T13:24:13.818Z"}
+{"level":"error","message":"Auth middleware error: jwt expired","timestamp":"2025-10-21T13:25:21.070Z"}
+{"level":"error","message":"Auth middleware error: jwt expired","timestamp":"2025-10-21T13:25:27.043Z"}
+{"level":"info","message":"User logged in: numanlajilani001@gmail.com","timestamp":"2025-10-21T13:25:37.105Z"}
+{"level":"info","message":"Token verified for user ID: 68f5dea6b7afba607f781ec9","timestamp":"2025-10-21T13:25:54.057Z"}
+{"level":"info","message":"Token verified for user ID: 68f5dea6b7afba607f781ec9","timestamp":"2025-10-21T13:26:02.690Z"}
+{"level":"info","message":"Token verified for user ID: 68f5dea6b7afba607f781ec9","timestamp":"2025-10-21T13:32:13.885Z"}
+{"level":"info","message":"Token verified for user ID: 68f5dea6b7afba607f781ec9","timestamp":"2025-10-21T13:32:25.469Z"}
+{"level":"info","message":"Token verified for user ID: 68f5dea6b7afba607f781ec9","timestamp":"2025-10-21T13:36:31.213Z"}
+{"level":"info","message":"Token verified for user ID: 68f5dea6b7afba607f781ec9","timestamp":"2025-10-21T13:40:07.595Z"}
+{"level":"info","message":"Token verified for user ID: 68f5dea6b7afba607f781ec9","timestamp":"2025-10-21T13:55:50.583Z"}
+{"level":"info","message":"Token verified for user ID: 68f5dea6b7afba607f781ec9","timestamp":"2025-10-21T14:04:47.879Z"}
+{"level":"info","message":"Token verified for user ID: 68f5dea6b7afba607f781ec9","timestamp":"2025-10-21T14:06:31.724Z"}
+{"level":"info","message":"Token verified for user ID: 68f5dea6b7afba607f781ec9","timestamp":"2025-10-21T14:08:07.144Z"}
+{"level":"error","message":"Auth middleware error: jwt expired","timestamp":"2025-10-23T02:53:32.627Z"}
+{"level":"error","message":"Auth middleware error: jwt expired","timestamp":"2025-10-23T02:53:34.669Z"}
+{"level":"info","message":"User logged in: numanlajilani001@gmail.com","timestamp":"2025-10-23T02:54:33.793Z"}
+{"level":"info","message":"Token verified for user ID: 68f5dea6b7afba607f781ec9","timestamp":"2025-10-23T02:54:45.702Z"}
+{"level":"info","message":"Token verified for user ID: 68f5dea6b7afba607f781ec9","timestamp":"2025-10-23T02:57:02.808Z"}
+{"level":"info","message":"Token verified for user ID: 68f5dea6b7afba607f781ec9","timestamp":"2025-10-23T03:00:07.937Z"}
+{"level":"info","message":"Primary 3964 is running","timestamp":"2025-10-23T03:12:10.702Z"}
+{"level":"info","message":"Worker 21712 connected to MongoDB","timestamp":"2025-10-23T03:12:16.454Z"}
+{"level":"info","message":"Worker 13920 connected to MongoDB","timestamp":"2025-10-23T03:12:16.467Z"}
+{"level":"info","message":"Worker 12256 connected to MongoDB","timestamp":"2025-10-23T03:12:16.466Z"}
+{"level":"info","message":"Worker 21712 running on port 5000","timestamp":"2025-10-23T03:12:16.478Z"}
+{"level":"info","message":"Worker 13920 running on port 5000","timestamp":"2025-10-23T03:12:16.499Z"}
+{"level":"info","message":"Worker 12256 running on port 5000","timestamp":"2025-10-23T03:12:16.501Z"}
+{"level":"info","message":"Worker 20584 connected to MongoDB","timestamp":"2025-10-23T03:12:16.505Z"}
+{"level":"info","message":"Worker 20584 running on port 5000","timestamp":"2025-10-23T03:12:16.541Z"}
+{"level":"info","message":"Primary 4836 is running","timestamp":"2025-10-23T03:12:38.676Z"}
+{"level":"info","message":"Worker 1504 connected to MongoDB","timestamp":"2025-10-23T03:12:44.583Z"}
+{"level":"info","message":"Worker 7432 connected to MongoDB","timestamp":"2025-10-23T03:12:44.601Z"}
+{"level":"info","message":"Worker 7432 running on port 5000","timestamp":"2025-10-23T03:12:44.630Z"}
+{"level":"info","message":"Worker 1504 running on port 5000","timestamp":"2025-10-23T03:12:44.638Z"}
+{"level":"info","message":"Worker 488 connected to MongoDB","timestamp":"2025-10-23T03:12:44.648Z"}
+{"level":"info","message":"Worker 488 running on port 5000","timestamp":"2025-10-23T03:12:44.671Z"}
+{"level":"info","message":"Worker 20924 connected to MongoDB","timestamp":"2025-10-23T03:12:44.666Z"}
+{"level":"info","message":"Worker 20924 running on port 5000","timestamp":"2025-10-23T03:12:44.694Z"}
+{"level":"info","message":"Primary 8824 is running","timestamp":"2025-10-23T03:39:31.672Z"}
+{"level":"info","message":"Worker 7508 connected to MongoDB","timestamp":"2025-10-23T03:39:36.414Z"}
+{"level":"info","message":"Worker 4788 connected to MongoDB","timestamp":"2025-10-23T03:39:36.415Z"}
+{"level":"info","message":"Worker 13836 connected to MongoDB","timestamp":"2025-10-23T03:39:36.415Z"}
+{"level":"info","message":"Worker 13660 connected to MongoDB","timestamp":"2025-10-23T03:39:36.414Z"}
+{"level":"info","message":"Worker 7508 running on port 5000","timestamp":"2025-10-23T03:39:36.454Z"}
+{"level":"info","message":"Worker 4788 running on port 5000","timestamp":"2025-10-23T03:39:36.453Z"}
+{"level":"info","message":"Worker 13660 running on port 5000","timestamp":"2025-10-23T03:39:36.464Z"}
+{"level":"info","message":"Worker 13836 running on port 5000","timestamp":"2025-10-23T03:39:36.468Z"}
+{"level":"info","message":"Token verified for user ID: 68f5dea6b7afba607f781ec9","timestamp":"2025-10-23T03:40:45.493Z"}
+{"level":"info","message":"Token verified for user ID: 68f5dea6b7afba607f781ec9","timestamp":"2025-10-23T03:40:50.032Z"}
+{"level":"info","message":"Token blacklisted for user ID: 68f5dea6b7afba607f781ec9","timestamp":"2025-10-23T03:40:50.034Z"}
+{"level":"info","message":"User logged in: numanlajilani001@gmail.com","timestamp":"2025-10-23T03:41:09.300Z"}
+{"level":"info","message":"Token verified for user ID: 68f5dea6b7afba607f781ec9","timestamp":"2025-10-23T04:19:45.663Z"}
+{"level":"info","message":"Token verified for user ID: 68f5dea6b7afba607f781ec9","timestamp":"2025-10-23T04:20:06.723Z"}
