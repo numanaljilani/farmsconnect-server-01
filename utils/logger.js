@@ -1,5 +1,7 @@
 import winston from 'winston';
 
+
+const isVercel = process.env.VERCEL === "1";
 const logger = winston.createLogger({
   level: 'info',
   format: winston.format.combine(
