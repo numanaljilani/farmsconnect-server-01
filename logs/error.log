@@ -12,3 +12,4 @@
 {"level":"error","message":"Auth middleware error: jwt expired","timestamp":"2025-10-21T13:25:27.043Z"}
 {"level":"error","message":"Auth middleware error: jwt expired","timestamp":"2025-10-23T02:53:32.627Z"}
 {"level":"error","message":"Auth middleware error: jwt expired","timestamp":"2025-10-23T02:53:34.669Z"}
+{"level":"error","message":"Auth middleware error: jwt expired","timestamp":"2025-10-25T03:50:22.267Z"}

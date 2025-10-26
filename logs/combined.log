@@ -478,3 +478,25 @@
 {"level":"info","message":"User logged in: numanlajilani001@gmail.com","timestamp":"2025-10-23T03:41:09.300Z"}
 {"level":"info","message":"Token verified for user ID: 68f5dea6b7afba607f781ec9","timestamp":"2025-10-23T04:19:45.663Z"}
 {"level":"info","message":"Token verified for user ID: 68f5dea6b7afba607f781ec9","timestamp":"2025-10-23T04:20:06.723Z"}
+{"level":"info","message":"Primary 21500 is running","timestamp":"2025-10-25T03:46:36.733Z"}
+{"level":"info","message":"Worker 3940 connected to MongoDB","timestamp":"2025-10-25T03:46:43.409Z"}
+{"level":"info","message":"Worker 3940 running on port 5000","timestamp":"2025-10-25T03:46:43.548Z"}
+{"level":"info","message":"Worker 17416 connected to MongoDB","timestamp":"2025-10-25T03:46:43.560Z"}
+{"level":"info","message":"Worker 19436 connected to MongoDB","timestamp":"2025-10-25T03:46:43.560Z"}
+{"level":"info","message":"Worker 12452 connected to MongoDB","timestamp":"2025-10-25T03:46:43.559Z"}
+{"level":"info","message":"Worker 17416 running on port 5000","timestamp":"2025-10-25T03:46:43.651Z"}
+{"level":"info","message":"Worker 19436 running on port 5000","timestamp":"2025-10-25T03:46:43.655Z"}
+{"level":"info","message":"Worker 12452 running on port 5000","timestamp":"2025-10-25T03:46:43.662Z"}
+{"level":"error","message":"Auth middleware error: jwt expired","timestamp":"2025-10-25T03:50:22.267Z"}
+{"level":"info","message":"User logged in: numanlajilani001@gmail.com","timestamp":"2025-10-25T03:50:40.688Z"}
+{"level":"info","message":"User logged in: numanlajilani001@gmail.com","timestamp":"2025-10-25T03:52:11.579Z"}
+{"level":"info","message":"Token verified for user ID: 68f5dea6b7afba607f781ec9","timestamp":"2025-10-25T03:52:48.049Z"}
+{"level":"info","message":"Primary 8196 is running","timestamp":"2025-10-25T04:05:31.273Z"}
+{"level":"info","message":"Worker 4776 connected to MongoDB","timestamp":"2025-10-25T04:05:48.239Z"}
+{"level":"info","message":"Worker 7536 connected to MongoDB","timestamp":"2025-10-25T04:05:48.317Z"}
+{"level":"info","message":"Worker 9864 connected to MongoDB","timestamp":"2025-10-25T04:05:48.351Z"}
+{"level":"info","message":"Worker 4776 running on port 5000","timestamp":"2025-10-25T04:05:48.411Z"}
+{"level":"info","message":"Worker 7536 running on port 5000","timestamp":"2025-10-25T04:05:48.453Z"}
+{"level":"info","message":"Worker 9864 running on port 5000","timestamp":"2025-10-25T04:05:48.473Z"}
+{"level":"info","message":"Worker 12788 connected to MongoDB","timestamp":"2025-10-25T04:05:48.580Z"}
+{"level":"info","message":"Worker 12788 running on port 5000","timestamp":"2025-10-25T04:05:48.669Z"}

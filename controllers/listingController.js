@@ -81,7 +81,7 @@ export const getListingDetails = async (req, res) => {
         // 2. Find the listing by ID
         // Note: You might want to use .populate('userId', 'name email') 
         //       here to include seller details, but this example keeps it simple.
-        const listing = await Listing.findById(listingId).select('-__v'); 
+        const listing = await Listing.findById(listingId).select('-__v').populate("userId"); 
 
         // 3. Check if listing exists
         if (!listing) {
