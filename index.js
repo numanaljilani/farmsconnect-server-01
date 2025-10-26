@@ -35,6 +35,9 @@ if (cluster.isPrimary) {
   await connectDB();
 
   // Routes
+  app.get("/",(req,res)=>{
+    res.json({status : 200 , message : "server is working ..."})
+  })
   app.use('/api/auth', authRoutes);
   app.use('/api/categories', categoryRoutes); // categoryRoutes
   app.use('/api/listings', listingRoutes); // categoryRoutes
